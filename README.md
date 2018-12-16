@@ -28,6 +28,6 @@ In order to test our models, we split the original data (from January 1987 to De
 ## Forecasting 
 Based on the minimum RMSE value, we selected the optimal model and used this model to predict the following 3 years' bankruptcy rate. Our forecasting plot shows that, despite some seasonal fluctuations, there will be a general decreasing trend of the bankruptcy rate for the year 2015 to 2017.
 
- 
+ ![alt text](https://github.com/zhlli1/Bankruptcy-Time-Series/blob/master/Forecasting.jpg)
  
 
