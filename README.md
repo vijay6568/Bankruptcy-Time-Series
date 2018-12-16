@@ -16,7 +16,7 @@ Univariate Time Series Model
 Multivariate Time Series Model
 <ul>
 <li> ARIMAX/SARIMAX </li>
-<li> VAR/VARX (Vector Autoregression </li>
+<li> VAR/VARX (Vector Autoregression) </li>
 </ul>
 
 
