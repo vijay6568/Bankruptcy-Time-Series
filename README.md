@@ -7,6 +7,7 @@ In this report, we will exploit the monthly statistics of Canadian bankruptcy ra
 
 ## Models
 We tried variety of modeling approaches including:
+
 Univariate Time Series Model
 <ul>
 <li> ARIMA/SARIMA (Box-Jenkins Approach) </li>
