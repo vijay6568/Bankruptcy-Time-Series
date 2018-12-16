@@ -8,11 +8,15 @@ In this report, we will exploit the monthly statistics of Canadian bankruptcy ra
 ## Models
 We tried variety of modeling approaches including:
 Univariate Time Series Model
-ARIMA/SARIMA (Box-Jenkins Approach)
-Exponential Smoothing (Holt-Winters Approach)
-Time series models
-ARIMAX/SARIMAX
-VAR/VARX (Vector Autoregression)
+<ul>
+<li> ARIMA/SARIMA (Box-Jenkins Approach) </li>
+<li> Exponential Smoothing (Holt-Winters Approach) </li>
+</ul>
+Multivariate Time Series Model
+<ul>
+<li> ARIMAX/SARIMAX </li>
+<li> VAR/VARX (Vector Autoregression </li>
+</ul>
 
 
 ## Evaluation Metrics
