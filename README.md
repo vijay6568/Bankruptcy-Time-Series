@@ -21,7 +21,9 @@ Multivariate Time Series Model
 
 
 ## Evaluation Metrics
-Since our goal is to have as accurate and precise forecasting results as possible, we choose to use the minimum RMSE as our model selection metrics. In order to test our models, we split the original data (from January 1987 to December 2014) into two parts, one set is the training part (from January 1987 to December 2012) to train our models, and the other set is the validation part (from January 2013 to December 2014) to test the predictive accuracy (RMSE) of the models.
+Since our goal is to have as accurate and precise forecasting results as possible, we choose to use the minimum RMSE as our model selection metrics. 
+
+In order to test our models, we split the original data (from January 1987 to December 2014) into two parts, one set is the training part (from January 1987 to December 2012) to train our models, and the other set is the validation part (from January 2013 to December 2014) to test the predictive accuracy (RMSE) of the models.
 
 ## Forecasting 
 Based on the minimum RMSE value, we selected the optimal model and used this model to predict the following 3 years' bankruptcy rate. Our forecasting plot shows that, despite some seasonal fluctuations, there will be a general decreasing trend of the bankruptcy rate for the year 2015 to 2017.
